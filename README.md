@@ -32,3 +32,9 @@ class java yang digunakan:
 # Dokumentasi
 Video demonstrasi Flappy Bird:
 [Dokumentasi Video Flappy Bird](Dokumentasi/Dokumentasi_TP6.mp4)
+
+# Sumber Background Music (BGM)
+Judul: 8bit Bossa
+Author: Joth
+Sumber: [OpenGameArt.org – Bossa Nova](https://opengameart.org/content/bossa-nova)
+Lisensi: CCO (Public Domain)
